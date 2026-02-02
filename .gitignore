@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+.env
+.python-version
+main.py 
+uv.lock
+README.md
